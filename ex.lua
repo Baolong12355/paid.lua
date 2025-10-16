@@ -12,7 +12,7 @@ local ValidKeys = {
     ["your_key_here"] = true,
 }
 
-local jsonURL = "https://raw.githubusercontent.com/Baolong12355/loader.lua/refs/heads/main/night.json"
+local jsonURL = "https://raw.githubusercontent.com/Baolong12355/paid.lua/refs/heads/main/ex.json"
 local loaderURL = "https://raw.githubusercontent.com/Baolong12355/loader.lua/main/loader.lua"
 local skipWaveURL = "https://raw.githubusercontent.com/Baolong12355/loader.lua/refs/heads/main/auto_skip.lua"
 local webhookURL = "https://discord.com/api/webhooks/1425775708562522183/DpwrsVPt6lgFU1Y0SU1J5ACMv4lN5JeKFES2Ips-RFF66tvTbclQCiTxGCWrqJDcVaZ7"
