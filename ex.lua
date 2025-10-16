@@ -1,10 +1,7 @@
 -- [[ LIST OF VALID KEYS ]]
 -- Add all your valid keys here, each in quotes and separated by a comma.
 local validKeys = {
-    "KEY",
-    "",
-    "",
-    ""
+    "KEY"
 }
 
 -- Configuration and necessary URLs (keyURL is no longer needed)
