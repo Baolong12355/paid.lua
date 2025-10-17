@@ -6,7 +6,7 @@ local CONFIG = {
 
 -- Table chứa key để check (thay vì check từ file)
 local ValidKeys = {
-    ["key1"] = true,
+    ["qR8mT2vN5xL9pC4yW7eH6aS3dJ1kFzG"] = true,
     ["key2"] = true,
     ["key3"] = true,
     ["your_key_here"] = true,
